@@ -1,6 +1,26 @@
 {
   "movies": [
+    {
+      "id": 476307,
+      "title": "The Unique Lama",
+      "posterPath": "../images/The_Unique_Lama.jpg"
+    },
+    {
+      "id": 27621,
+      "title": "The Cheetah Girls: One World",
+      "posterPath": "../images/The_Cheetah_Girls.jpg"
+    }
   ],
   "favourites": [
+    {
+      "id": 476307,
+      "title": "The Unique Lama",
+      "posterPath": "../images/The_Unique_Lama.jpg"
+    },
+    {
+      "id": 27621,
+      "title": "The Cheetah Girls: One World",
+      "posterPath": "../images/The_Cheetah_Girls.jpg"
+    }
   ]
 }
